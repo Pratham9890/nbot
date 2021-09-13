@@ -1,6 +1,6 @@
 {
-	"ip":"example.aternos.me",
-	"port": "25565",
+	"ip":"BadBoiMinecraft.aternos.me:27463",
+	"port": "27463",
 	"name": "NRBot",
 	"auto-night-skip":"false"
 }
